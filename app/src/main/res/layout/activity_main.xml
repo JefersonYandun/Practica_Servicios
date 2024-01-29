@@ -13,10 +13,10 @@
         android:text="CONSUMO APIS"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.538"
+        app:layout_constraintHorizontal_bias="0.542"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.052" />
+        app:layout_constraintVertical_bias="0.101" />
 
     <TextView
         android:id="@+id/lblIngreseNumero"
@@ -74,8 +74,8 @@
         android:id="@+id/btnGuardar"
         android:layout_width="162dp"
         android:layout_height="92dp"
-        android:layout_marginEnd="116dp"
-        android:layout_marginBottom="224dp"
+        android:layout_marginEnd="124dp"
+        android:layout_marginBottom="296dp"
         android:text="GUARDAR"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />
